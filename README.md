@@ -1,3 +1,3 @@
 # DDR-KGs
 
-Contains code to extract entities and relations from daily drilling reports and building knowledge graphs from them
+Contains code to extract text data from DDRs and extract entities and relations from Operations and building knowledge graphs from them
